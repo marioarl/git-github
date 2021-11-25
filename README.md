@@ -20,7 +20,7 @@
    * Responsavel por todo o design do site, inserindo todas as imagens e videos nos lugares corretos. 
 
 ***
-Voce pode acessar a página pronta deste exercício clicando aqui 👉 <a href="https://marioarl.github.io/git-github/" target="_blank">GitHub Pages</a>
+Voce pode acessar a página pronta deste exercício clicando aqui 👉 <a href="https://marioarl.github.io/git-github/" target="blank">GitHub Pages</a>
 
 
  
