@@ -4,6 +4,7 @@
     
     Acesse as redes sociais do Curso em Video
 <a href="https://www.instagram.com/cursoemvideo/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.youtube.com/c/CursoemV%C3%ADdeo" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
     
     
  Este repositório é um exercício de como se trabalhar com 2 **branches** e foi feito em um site que possui 3 arquivos `html` (index, historia e vgeral), uma pasta com imagens, uma pasta com alguns documentos de design e um arquivo de estilo `css`.
