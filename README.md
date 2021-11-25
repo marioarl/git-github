@@ -1,5 +1,11 @@
 # git-github
  ## Curso de Git e GitHub - Curso em Vídeo
+ <img src="https://user-images.githubusercontent.com/81307784/143489415-8bd6aa57-cdfa-4e45-b911-3baeeca238b8.png" alt="curso em video" width="200">
+    
+    Acesse as redes sociais do Curso em Video
+<a href="https://www.instagram.com/cursoemvideo/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    
+    
  Este repositório é um exercício de como se trabalhar com 2 **branches** e foi feito em um site que possui 3 arquivos `html` (index, historia e vgeral), uma pasta com imagens, uma pasta com alguns documentos de design e um arquivo de estilo `css`.
  
  Foram criadas as seguintes **branches**:
@@ -15,6 +21,7 @@ Voce pode acessar a página clicando aqui <a href="https://marioarl.github.io/gi
 
  
    
+
 
 
 
