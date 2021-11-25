@@ -9,6 +9,9 @@
 * design
    * Responsavel por todo o design do site, inserindo todas as imagens e videos nos lugares corretos. 
 
+***
+Voce pode acessar a página clicando aqui [GitHub Pages](https://marioarl.github.io/git-github/)
+
 
  
    
